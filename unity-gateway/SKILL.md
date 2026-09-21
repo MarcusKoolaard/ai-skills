@@ -1,5 +1,5 @@
 ---
-name: unity-ai-gateway-public
+name: unity-gateway
 description: Create, configure, and query Databricks Unity Gateway model services, model provider services, and MCP services. Use for Unity Catalog-governed LLM endpoints, external providers, routing, rate limits, request tags, inference tables, REST APIs, SDKs, CLI, Terraform, DABs, or coding-agent integration.
 ---
 
